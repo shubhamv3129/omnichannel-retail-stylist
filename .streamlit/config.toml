@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+[theme]
+base = "light"
+primaryColor = "#000000" # Sleek black for buttons/accents
+backgroundColor = "#FFFFFF" # Pure white background
+secondaryBackgroundColor = "#F7F9FC" # Very light gray for the sidebar/chat
+textColor = "#1E1E1E" # Dark gray text for readability
+font = "sans serif"
